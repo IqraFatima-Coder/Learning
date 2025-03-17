@@ -12,25 +12,22 @@
 - Install Packages
    Two ways:
 
-   1) Using pip Command (Recommended)
-
+   1) Using pip Command (Recommended):
   *pip install package_name==version*
 
-  e.g.  
-     pip install numpy
+  e.g.   pip install numpy
 
-  2)  Using conda
-
+  2)  Using conda:
   *conda install package_name*
 
   e.g. 
     conda install pandas
 
 
-- Display Package List
+- Display Package List:
   *conda list*
--  Delete an Environment
+-  Delete an Environment: 
   *conda remove --name env_name --all*
-- Show all created environments
+- Show all created environments:
   *conda info --envs*   or *conda info -e*
   
