@@ -8,5 +8,4 @@ Instructor: *Muhammad Haris Tariq*
 - Great Community Support
 - Veratile Language
 - Multiple Career Opportunities
-
-Foundation for fields like Data Science, ML, AI, NLP , Web Development and Data Engineering etc.
+- Foundation for fields like Data Science, ML, AI, NLP , Web Development and Data Engineering etc.
