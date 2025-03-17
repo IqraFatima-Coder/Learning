@@ -4,7 +4,7 @@
 - Open Anaconda Prompt
 - Create a virtual environment
   *conda create -n environment_name python=version_number*
-  *Enter y if asks for permission to proceed*
+  (*Enter y if asks for permission to proceed*)
 - Activate virtual environment
   *conda activate environment_name*
 - Deactivate virtual environment
